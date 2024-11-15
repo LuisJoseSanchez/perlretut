@@ -6,7 +6,9 @@
 
 ## Other links
 
-[Perl | Regex Cheat Sheet](https://www.geeksforgeeks.org/perl-regex-cheat-sheet/)
+* [Perl | Regex Cheat Sheet](https://www.geeksforgeeks.org/perl-regex-cheat-sheet/)
 
-[]()
+* [perlcheat](https://perldoc.perl.org/perlcheat)
+
+* [Perl | File Handling Introduction](https://www.geeksforgeeks.org/perl-file-handling-introduction/)
 
