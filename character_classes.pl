@@ -21,4 +21,11 @@ print "item0 adb item7 sss" =~ /item[\d]/ ? "match\n" : "don't match\n";
 print "item0 adb item7 sss" =~ /IteM[\d]/ ? "match\n" : "don't match\n";
 print "item0 adb item7 sss" =~ /IteM[\d]/i ? "match\n" : "don't match\n";
 
+print "\nEscalar dentro de corchetes\n";
+
+$letras = "defg";
+print "hola eee e88 eooo" =~ /[$letras]\d/ ? "match\n" : "don't match\n";
+print "hola eee eooo" =~ /[$letras]\d/ ? "match\n" : "don't match\n";
+
+
 print "\n";

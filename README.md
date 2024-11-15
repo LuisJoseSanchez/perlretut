@@ -4,3 +4,9 @@
 
 [Perl regular expressions tutorial](https://perldoc.perl.org/perlretut)
 
+## Other links
+
+[Perl | Regex Cheat Sheet](https://www.geeksforgeeks.org/perl-regex-cheat-sheet/)
+
+[]()
+
