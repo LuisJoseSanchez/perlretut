@@ -12,3 +12,5 @@
 
 * [Perl | File Handling Introduction](https://www.geeksforgeeks.org/perl-file-handling-introduction/)
 
+* [Perl Beginners' Site](https://perl-begin.org/)
+
